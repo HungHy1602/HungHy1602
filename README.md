@@ -1,4 +1,4 @@
-<h2 align="center">🛠 About Me </h2>
+<h2 align="center">🛠  About Me </h2>
 <br>
 - :credit_card: My full name is **Dang Van Thien**
 - :school: I'm currently the last year student at **FPT University - HCMC**
