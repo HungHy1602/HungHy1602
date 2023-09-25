@@ -1,10 +1,15 @@
-<h2 align="center">🛠  About Me </h2>
+<h2 align="center">(👁️̃ ͜ʖ👁️̃)✌  About Me </h2>
 <br>
-- :credit_card: My full name is **Dang Van Thien**
+- :credit_card: My full name is **Le Cong Hung**
+<br>
 - :school: I'm currently the last year student at **FPT University - HCMC**
+<br>
 - :books: My major is **Software Engineer**
+<br>
 - :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
-- :sunglasses: My quote is ***"Optimism and a positive attitude is the key to a happy life. Smile at life, life will smile at you!"*** 
+<br>
+- :sunglasses: My quote is <strong>"Code For U Life | Stop Copy | More Cheating & Fixing"/<strong>
+<br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
