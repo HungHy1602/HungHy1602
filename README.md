@@ -1,14 +1,14 @@
 <h2 align="center">(👁️̃ ͜ʖ👁️̃)✌  About Me </h2>
 <br>
-- :credit_card: My full name is **Le Cong Hung**
+- :credit_card: My full name is <strong>Le Cong Hung</strong>
 <br>
-- :school: I'm currently the last year student at **FPT University - HCMC**
+- :school: I'm currently the last year student at <strong>FPT University - HCMC</strong>
 <br>
-- :books: My major is **Software Engineer**
+- :books: My major is <strong>Software Engineer</strong>
 <br>
-- :earth_asia: I'm living now in **Ho Chi Minh City, Viet Nam**
+- :earth_asia: I'm living now in <strong>Ho Chi Minh City, Viet Nam</strong>
 <br>
-- :sunglasses: My quote is <strong>"Code For U Life | Stop Copy | More Cheating & Fixing"/<strong>
+- :sunglasses: My quote is <strong>"Code For U Life | Stop Copy | More Cheating & Fixing"</strong>
 <br>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
